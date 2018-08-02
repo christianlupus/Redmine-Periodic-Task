@@ -1,1 +1,1 @@
-gem 'business_time', '0.7.6'
+gem 'business_time', :git => "https://github.com/bokmann/business_time", :tag => "v0.9.1"
